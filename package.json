@@ -1,0 +1,22 @@
+{
+  "name": "async-programming",
+  "version": "0.1.0",
+  "description": "Ponderings about asynchronous programming in general, specifically in node.js, C/C++.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eljefedelrodeodeljefe/async-programming.git"
+  },
+  "author": "Robert Jefe Lindstaedt <robert.lindstaedt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eljefedelrodeodeljefe/async-programming/issues"
+  },
+  "homepage": "https://github.com/eljefedelrodeodeljefe/async-programming#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
